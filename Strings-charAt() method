@@ -1,0 +1,8 @@
+charAt() Method
+public class Main {
+  public static void main(String[] args) {
+String myStr = "Vineet";
+char result = myStr.charAt(0);
+System.out.println(result);
+}  
+  }
