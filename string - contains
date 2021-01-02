@@ -1,0 +1,8 @@
+public class Main { 
+public static void main(String[] args) { 
+String s = "vineet"; 
+System.out.println(s.contains("vi")); 
+System.out.println(s.contains("ne")); 
+System.out.println(s.contains("et")); 
+}
+}
