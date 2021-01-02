@@ -1,0 +1,8 @@
+public class Main { 
+public static void main(String[] args) { 
+String s = "ThisIsAHugestringofvineetvv"; 
+System.out.println(s.endsWith("Hug")); 
+System.out.println(s.endsWith("eetvv")); 
+System.out.println(s.endsWith("v")); 
+} 
+}
