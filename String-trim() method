@@ -1,0 +1,9 @@
+
+trim() Method
+public class Main {
+  public static void main(String[] args) {
+String myStr = "       Vineet Vishwakarma      ";
+System.out.println(myStr);
+System.out.println(myStr.trim());
+}
+}
