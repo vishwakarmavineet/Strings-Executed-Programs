@@ -1,0 +1,22 @@
+
+toUpperCase() Method
+public class Main {
+  public static void main(String[] args) {
+String txt = Vineet Vishwakarma";
+System.out.println(txt.toUpperCase());
+
+}
+ }
+
+
+
+
+
+
+toLowerCase() Method
+public class Main {
+  public static void main(String[] args) {
+String txt = "Vineet Vishwakarma";
+System.out.println(txt.toLowerCase());
+}
+   }
