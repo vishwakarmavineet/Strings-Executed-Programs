@@ -1,0 +1,25 @@
+public class Main { 
+public static void main(String args[]) { 
+char[] kid = {
+'V',
+'I',
+'N',
+'E',
+'E',
+'T',
+' ',
+'V',
+'I',
+'S',
+'H',
+'W',
+'a'
+'K',
+'A', 
+'R', 
+'M', 
+'A', 
+};
+String kidS = new String(kid); System.out.println(kidS);
+} 
+}
